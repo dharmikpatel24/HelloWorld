@@ -17,6 +17,7 @@ public class Helloworld1 {
         // TODO code application logic here
        int setscore = 20; 
        System.out.print(setscore);
+        System.out.print("helloworld");
     }
     
 }
